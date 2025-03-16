@@ -1,8 +1,12 @@
-Welcome to comprehensive Bootcamp of DSDA , designed to equip you with the essential skills in Data Analytics, MySQL, Python Programming, Machine Learning, Deep Learning, and Advanced AI Techniques. Whether you are 
+Welcome to comprehensive Bootcamp_2025 of DSDA , 
 
-a beginner or an experienced professional looking to upskill, this bootcamp provides hands-on training, real-world projects, and expert guidance to help you excel in the field of Data Science and AI.
+
+This Course is designed to equip you with the essential skills in Data Analytics, MySQL, Python Programming, Machine Learning, Deep Learning, and Advanced AI Techniques. 
+
+Whether you are a beginner or an experienced professional looking to upskill, this bootcamp provides hands-on training, real-world projects, and expert guidance to help you excel in the field of Data Science and AI.
 
 🔥 What You Will Learn?
+
 
 ✅ Data Analytics: Learn how to analyze, interpret, and visualize data to make informed business decisions.
 
@@ -15,6 +19,8 @@ a beginner or an experienced professional looking to upskill, this bootcamp prov
 ✅ Deep Learning: Dive into neural networks, CNNs, RNNs, and AI-driven applications.
 
 ✅ Advanced AI Techniques: Explore cutting-edge AI topics, including NLP, Generative AI, and Large Language Models (LLMs).
+
+
 
 💡 Why Join This Bootcamp?
 
